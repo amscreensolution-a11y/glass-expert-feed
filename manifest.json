@@ -1,17 +1,17 @@
 {
-  "version": "2026-10-19.2",
+  "version": "2026-10-20",
   "name": "GlassExpert-Feed",
   "repo": "https://github.com/amscreensolution-a11y/glass-expert-feed",
-  "updated_at": "2026-10-19T21:11:14+0530",
+  "updated_at": "2026-10-20T12:51:01+0530",
   "files": {
     "glass.sqlite": {
-      "sha256": "fd78a9e2cca1626a89303f4b37557ccacabed8e8369931d3e048dc78c989bfd5",
+      "sha256": "b2f140626f6edcaf014277bb3b8d5a59466f5cd2d0b44176f30ce8a3cd6896a4",
       "size": 2736128,
       "url": "https://raw.githubusercontent.com/amscreensolution-a11y/glass-expert-feed/main/glass.sqlite"
     },
     "glass.json": {
-      "sha256": "07b3e2cb2ea341792e7c61c39cde6e3b5755bed0ce0bb071ede4dfa588db5da8",
-      "size": 1562519,
+      "sha256": "44fe4cab58bdbfa88bd139d37d11e0aa44666fe46775611d98704081ac365b9d",
+      "size": 1562399,
       "url": "https://raw.githubusercontent.com/amscreensolution-a11y/glass-expert-feed/main/glass.json"
     },
     "glass.py": {
